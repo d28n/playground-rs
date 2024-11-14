@@ -1,0 +1,22 @@
+[package]
+name = "vulkan"
+authors = ["d28n"]
+version = "0.0.1"
+edition = "2021"
+description = ""
+categories = ["graphics"]
+repository = "https://github.com/d28n/playground-rs"
+license = "Unlicense"
+readme = "README.md"
+
+[dependencies]
+
+[lints.rust]
+unsafe_code = "warn"
+deprecated_safe = "warn"
+future-incompatible = "warn"
+keyword-idents = "warn"
+let-underscore = "warn"
+nonstandard-style = "warn"
+
+[lints.clippy]
