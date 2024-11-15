@@ -1,1 +1,1 @@
-## Personal Rust playground :)
+## playground-rs
